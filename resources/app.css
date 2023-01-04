@@ -2,7 +2,7 @@ body {
     background-color: #DFDFDF;
 }
 
-:visited {
+:hover {
     color:#4a3b94ad
     font-weight: bold;
 }
