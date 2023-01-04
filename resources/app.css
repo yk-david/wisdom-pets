@@ -1,3 +1,8 @@
 body {
     background-color: #DFDFDF;
 }
+
+:visited {
+    color:#4a3b94ad
+    font-weight: bold;
+}
